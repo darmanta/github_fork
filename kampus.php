@@ -5,8 +5,8 @@
   <body>
     <?php 
       echo "Amik Mahaputra Riau";
-      echo "Nim : 22110012";
-      echo "Nama : Muh. Irwansyah";
+      echo "Nim : 22110045";
+      echo "Nama : Dewi fitriyani";
       echo "Kelas : 22Mi-A";
       echo "Alamat : JL. Soebrantas";
     ?>
