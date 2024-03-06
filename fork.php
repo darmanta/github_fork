@@ -4,7 +4,8 @@
   </head>
   <body>
     <?php
-      echo "Fork adalah Membuat ‘copy/cuplikat’ dari repo orang lain (beserta historynya)";
+      echo "Fork adalah Membuat ‘copy/cuplikat’ dari repo orang lain (beserta historynya)"<br>;
+      echo "Nama: Citra Ameilia";
     <?
   </body>
 </html>
